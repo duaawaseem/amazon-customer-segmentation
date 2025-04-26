@@ -1,13 +1,13 @@
 # UserInsights
-# 📊 Customer Segmentation for Amazon E-commerce Behaviour
+# Customer Segmentation for Amazon E-commerce Behaviour
 
 ## Project Overview
 This project applies dimensionality reduction and clustering techniques to segment Amazon customers based on purchasing behaviours and satisfaction levels.  
 The goal is to generate actionable insights for targeted marketing, personalisation strategies, and customer retention.
 
----
 
-## 🛠️ Tools & Techniques
+
+##  Tools & Techniques
 - Python (pandas, numpy, matplotlib, scikit-learn)
 - StandardScaler for feature scaling
 - Principal Component Analysis (PCA) for dimensionality reduction
@@ -16,7 +16,7 @@ The goal is to generate actionable insights for targeted marketing, personalisat
 
 ---
 
-## 🚀 Workflow
+## Workflow
 1. **Data Cleaning**:  
    - Dropped non-numeric and datetime columns.
    - Handled invalid or missing values.
@@ -37,7 +37,7 @@ The goal is to generate actionable insights for targeted marketing, personalisat
 
 ---
 
-## 📈 Key Results
+## Key Results
 - Identified **three customer segments**:
   - **Cluster 0**: Low-engagement, younger customers (age ~27).
   - **Cluster 1**: Moderately engaged, older demographic (age ~44).
@@ -50,14 +50,14 @@ The goal is to generate actionable insights for targeted marketing, personalisat
 
 ---
 
-## 📋 Business Impact
+## Business Impact
 - Provides a framework for targeted customer engagement strategies.
 - Improves marketing ROI by tailoring offers to each segment.
 - Forms the basis for building predictive models for customer lifetime value.
 
 ---
 
-## 🛤️ Future Improvements
+## Future Improvements
 - Explore alternative clustering algorithms (DBSCAN, Hierarchical).
 - Incorporate additional customer behaviour features (e.g., spend categories, purchase frequency).
 - Build automated pipelines for real-time customer segmentation.
