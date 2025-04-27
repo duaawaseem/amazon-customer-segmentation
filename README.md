@@ -30,6 +30,9 @@ The goal is to generate actionable insights for targeted marketing, personalisat
 4. **Clustering**:  
    - Used K-Means to segment customers.
    - Determined optimal `k` using both Elbow and Silhouette methods.
+![Elbow Method](https://github.com/duaawaseem/UserInsights/blob/main/Elbow%20Method.png)
+![Silhouette Method](https://github.com/duaawaseem/UserInsights/blob/main/Silhouette%20Method.png)
+   
 
 5. **Cluster Analysis**:  
    - Generated three customer personas based on engagement and satisfaction metrics.
@@ -42,6 +45,8 @@ The goal is to generate actionable insights for targeted marketing, personalisat
   - **Cluster 0**: Low-engagement, younger customers (age ~27).
   - **Cluster 1**: Moderately engaged, older demographic (age ~44).
   - **Cluster 2**: Highly engaged, highly satisfied younger shoppers (age ~27).
+ 
+    -![Customer Segments]( https://github.com/duaawaseem/UserInsights/blob/main/Customer%20Segments.png)
   
 - Suggested marketing strategies tailored to each persona.
 
