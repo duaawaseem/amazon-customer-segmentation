@@ -1,5 +1,3 @@
-# UserInsights
-# Customer Segmentation for Amazon E-commerce Behaviour
 
 ## Project Overview
 This project applies dimensionality reduction and clustering techniques to segment Amazon customers based on purchasing behaviours and satisfaction levels.  
